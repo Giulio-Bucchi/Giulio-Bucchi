@@ -15,7 +15,7 @@ Skills :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flatsquare&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flatsquare&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flatsquare&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-47A248?style=flatsquare&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Visualstudiocode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 <!--
