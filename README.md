@@ -10,7 +10,7 @@
 
 Skills : 
 
-![html](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white,https://html.spec.whatwg.org)
+[![html](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white),(https://html.spec.whatwg.org)]
 ![css](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flatsquare&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
