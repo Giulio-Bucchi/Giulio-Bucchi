@@ -22,6 +22,16 @@ Skills :
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Visualstudiocode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+
+Social
+[![Discord](https://img.shields.io/badge/-Discord-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.Discord.com/in/Giulio)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_giuliooo_01)
+
+
+
+
+
 <!--
 **Giulio-Bucchi/Giulio-Bucchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
