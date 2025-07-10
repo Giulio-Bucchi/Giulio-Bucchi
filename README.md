@@ -25,7 +25,7 @@ Skills :
 
 
 Social
-[![Discord]([https://img.shields.io/badge/-Discord-0077B5?style=flat&logo=discord&logoColor=white](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white))](https://www.discord.com/in/Giulio)
+[![Discord]([https://img.shields.io/badge/-Discord-0077B5?style=flat&logo=discord&logoColor=white](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white))]
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_giuliooo_01)
 
 
