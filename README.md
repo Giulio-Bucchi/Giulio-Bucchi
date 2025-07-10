@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi, I'm Giulio Bucchi</h1>
-<h3 align="center">Computer Engineering Student interested in software, hardware and open in new challenges</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 
 - 📍 Italy,Rome
