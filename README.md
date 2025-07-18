@@ -22,7 +22,7 @@ Skills :
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/download/)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)](https://www.arduino.cc/en/software)
-[Vhdl](https://img.shields.io/badge/-Vhdl-00979D?style=flat-square&logo=vhdl&logoColor=white)
+[Vhdl](https://img.shields.io/badge/logo-vhdl-blue?logo=vhdl)
 
 
 Social :
