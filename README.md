@@ -4,7 +4,7 @@
 
 
 - 📍 Italy,Rome
-- 🌐 My portfolio: work in progess...
+- 🌐 My portfolio: [work in progess...](https://giulio-bucchi.github.io/Portfolio/)
 
 
 
