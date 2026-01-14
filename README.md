@@ -15,6 +15,8 @@
 [![VHDL](https://img.shields.io/badge/-VHDL-8C1CEB?style=flat-square&logo=amd&logoColor=white)](https://en.wikipedia.org/wiki/VHDL)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev/)
+
 
 ### Framework, Database e Tool software
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com/)
